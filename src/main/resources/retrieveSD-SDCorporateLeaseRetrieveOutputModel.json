@@ -1,0 +1,39 @@
+{
+  "corporateLeaseRetrieveActionRecord" : {
+    "corporateLeaseActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "corporateLeasePerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    }
+  },
+  "corporateLeaseRetrieveActionTaskRecord" : {},
+  "corporateLeaseOfferedService" : {
+    "corporateLeaseServiceReference" : "776158",
+    "corporateLeaseServiceRecord" : {
+      "corporateLeaseServiceType" : "corporateLeaseServiceType",
+      "corporateLeaseServicePoliciesandGuidelines" : {
+        "corporateLeaseServiceIntendedUses" : "corporateLeaseServiceIntendedUses",
+        "corporateLeaseServicePricingandTerms" : "corporateLeaseServicePricingandTerms",
+        "corporateLeaseServiceEligibility" : "corporateLeaseServiceEligibility"
+      },
+      "corporateLeaseServiceVersion" : "corporateLeaseServiceVersion",
+      "corporateLeaseServiceSchedule" : "corporateLeaseServiceSchedule",
+      "corporateLeaseServiceDescription" : "corporateLeaseServiceDescription"
+    }
+  },
+  "corporateLeaseRetrieveActionTaskReference" : "SRATR795161",
+  "corporateLeaseRetrieveActionResponse" : "corporateLeaseRetrieveActionResponse"
+}

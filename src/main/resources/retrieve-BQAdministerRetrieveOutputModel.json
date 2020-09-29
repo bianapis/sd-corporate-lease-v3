@@ -1,0 +1,26 @@
+{
+  "administerRetrieveActionTaskRecord" : {},
+  "businessService" : "businessService",
+  "administerPostconditions" : "administerPostconditions",
+  "administerServiceName" : "administerServiceName",
+  "administerPreconditions" : "administerPreconditions",
+  "administerFeatureSchedule" : "administerFeatureSchedule",
+  "administerServiceType" : "administerServiceType",
+  "administerInstanceReport" : {
+    "administerInstanceReport" : {},
+    "administerInstanceReportParameters" : "administerInstanceReportParameters",
+    "administerInstanceReportRecord" : {},
+    "administerInstanceReportType" : "administerInstanceReportType"
+  },
+  "administerInstanceAnalysis" : {
+    "administerInstanceAnalysisRecord" : {},
+    "administerInstanceAnalysisReport" : {},
+    "administerInstanceAnalysisReportType" : "administerInstanceAnalysisReportType",
+    "administerInstanceAnalysisParameters" : "administerInstanceAnalysisParameters"
+  },
+  "administerServiceWorkProduct" : "administerServiceWorkProduct",
+  "administerServiceInputsandOuputs" : "administerServiceInputsandOuputs",
+  "administerRetrieveActionResponse" : "administerRetrieveActionResponse",
+  "administerServiceDescription" : "administerServiceDescription",
+  "administerRetrieveActionTaskReference" : "CLARATR765906"
+}

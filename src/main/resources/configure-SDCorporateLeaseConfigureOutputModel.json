@@ -1,0 +1,21 @@
+{
+  "corporateLeaseServiceConfigurationRecord" : {
+    "corporateLeaseServiceSubscription" : {
+      "corporateLeaseServiceSubscriberAccessProfile" : "corporateLeaseServiceSubscriberAccessProfile",
+      "corporateLeaseServiceSubscriberReference" : "756221"
+    },
+    "corporateLeaseServiceStatus" : "corporateLeaseServiceStatus",
+    "corporateLeaseServiceAgreement" : {
+      "corporateLeaseServiceAgreementTermsandConditions" : "corporateLeaseServiceAgreementTermsandConditions",
+      "corporateLeaseServiceAgreementReference" : "721156",
+      "corporateLeaseServiceUserReference" : "733696"
+    },
+    "corporateLeaseServiceConfigurationSetup" : {
+      "corporateLeaseServiceConfigurationParameter" : "corporateLeaseServiceConfigurationParameter"
+    },
+    "corporateLeaseServiceConfigurationSettingDescription" : "corporateLeaseServiceConfigurationSettingDescription"
+  },
+  "corporateLeaseServicingSessionStatus" : "corporateLeaseServicingSessionStatus",
+  "corporateLeaseConfigurationActionTaskReference" : "SCATR765419",
+  "corporateLeaseConfigurationActionTaskRecord" : {}
+}

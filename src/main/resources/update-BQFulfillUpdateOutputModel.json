@@ -1,0 +1,13 @@
+{
+  "businessService" : "businessService",
+  "fulfillUpdateActionTaskRecord" : {},
+  "fulfillServiceInputsandOuputs" : "fulfillServiceInputsandOuputs",
+  "fulfillServiceWorkProduct" : "fulfillServiceWorkProduct",
+  "fulfillServiceDescription" : "fulfillServiceDescription",
+  "updateResponseRecord" : {},
+  "fulfillPostconditions" : "fulfillPostconditions",
+  "fulfillFeatureSchedule" : "fulfillFeatureSchedule",
+  "fulfillPreconditions" : "fulfillPreconditions",
+  "fulfillServiceType" : "fulfillServiceType",
+  "fulfillUpdateActionTaskReference" : "FUATR787018"
+}

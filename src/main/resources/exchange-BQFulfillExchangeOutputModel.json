@@ -1,0 +1,14 @@
+{
+  "businessService" : "businessService",
+  "fulfillServiceInputsandOuputs" : "fulfillServiceInputsandOuputs",
+  "fulfillExchangeActionTaskRecord" : {},
+  "fulfillInstanceStatus" : "fulfillInstanceStatus",
+  "fulfillServiceWorkProduct" : "fulfillServiceWorkProduct",
+  "fulfillServiceDescription" : "fulfillServiceDescription",
+  "fulfillPostconditions" : "fulfillPostconditions",
+  "fulfillFeatureSchedule" : "fulfillFeatureSchedule",
+  "fulfillExchangeActionResponse" : "fulfillExchangeActionResponse",
+  "fulfillPreconditions" : "fulfillPreconditions",
+  "fulfillServiceType" : "fulfillServiceType",
+  "fulfillExchangeActionTaskReference" : "FEATR722937"
+}

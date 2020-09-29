@@ -1,0 +1,25 @@
+{
+  "businessService" : "businessService",
+  "fulfillServiceInputsandOuputs" : "fulfillServiceInputsandOuputs",
+  "fulfillRetrieveActionResponse" : "fulfillRetrieveActionResponse",
+  "fulfillServiceDescription" : "fulfillServiceDescription",
+  "fulfillInstanceReport" : {
+    "fulfillInstanceReportRecord" : {},
+    "fulfillInstanceReportParameters" : "fulfillInstanceReportParameters",
+    "fulfillInstanceReport" : {},
+    "fulfillInstanceReportType" : "fulfillInstanceReportType"
+  },
+  "fulfillFeatureSchedule" : "fulfillFeatureSchedule",
+  "fulfillPreconditions" : "fulfillPreconditions",
+  "fulfillServiceType" : "fulfillServiceType",
+  "fulfillInstanceAnalysis" : {
+    "fulfillInstanceAnalysisReportType" : "fulfillInstanceAnalysisReportType",
+    "fulfillInstanceAnalysisReport" : {},
+    "fulfillInstanceAnalysisRecord" : {},
+    "fulfillInstanceAnalysisParameters" : "fulfillInstanceAnalysisParameters"
+  },
+  "fulfillRetrieveActionTaskRecord" : {},
+  "fulfillServiceWorkProduct" : "fulfillServiceWorkProduct",
+  "fulfillRetrieveActionTaskReference" : "FRATR769814",
+  "fulfillPostconditions" : "fulfillPostconditions"
+}

@@ -1,0 +1,28 @@
+{
+  "corporateLeaseArrangementParameterType" : "corporateLeaseArrangementParameterType",
+  "corporateLeaseArrangementJurisdiction" : "corporateLeaseArrangementJurisdiction",
+  "corporateLeaseArrangementStatus" : "corporateLeaseArrangementStatus",
+  "corporateLeaseArrangementAccountReference" : "CLAAR711013",
+  "corporateLeaseArrangementRetrieveActionTaskReference" : "CLARATR785956",
+  "corporateLeaseArrangementType" : "corporateLeaseArrangementType",
+  "corporateLeaseArrangementRetrieveActionTaskRecord" : {},
+  "corporateLeaseArrangementRetrieveActionResponse" : "corporateLeaseArrangementRetrieveActionResponse",
+  "corporateLeaseArrangementRegulationReference" : "CLARR765529",
+  "corporateLeaseArrangementCurrency" : "USD",
+  "corporateLeaseArrangementRegulationType" : "corporateLeaseArrangementRegulationType",
+  "corporateLeaseArrangementBookingLocation" : "corporateLeaseArrangementBookingLocation",
+  "corporateLeaseArrangementSelectedOption" : "corporateLeaseArrangementSelectedOption",
+  "corporateLeaseArrangementInstanceReportRecord" : {
+    "corporateLeaseArrangementInstanceReportData" : "corporateLeaseArrangementInstanceReportData",
+    "corporateLeaseArrangementInstanceReport" : {},
+    "corporateLeaseArrangementInstanceReportType" : "corporateLeaseArrangementInstanceReportType"
+  },
+  "corporateLeaseArrangementInstanceAnalysis" : {
+    "corporateLeaseArrangementInstanceAnalysisData" : "corporateLeaseArrangementInstanceAnalysisData",
+    "corporateLeaseArrangementInstanceAnalysisReport" : {},
+    "corporateLeaseArrangementInstanceAnalysisReportType" : "corporateLeaseArrangementInstanceAnalysisReportType"
+  },
+  "corporateLeaseArrangementReference" : "CLAR725607",
+  "corporateLeaseArrangementSchedule" : "corporateLeaseArrangementSchedule",
+  "corporateLeaseArrangementAccountType" : "corporateLeaseArrangementAccountType"
+}

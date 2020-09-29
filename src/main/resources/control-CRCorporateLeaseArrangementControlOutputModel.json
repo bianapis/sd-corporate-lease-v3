@@ -1,0 +1,9 @@
+{
+  "corporateLeaseArrangementParameterType" : "corporateLeaseArrangementParameterType",
+  "corporateLeaseArrangementControlActionResponse" : "corporateLeaseArrangementControlActionResponse",
+  "corporateLeaseArrangementStatus" : "corporateLeaseArrangementStatus",
+  "corporateLeaseArrangementSelectedOption" : "corporateLeaseArrangementSelectedOption",
+  "corporateLeaseArrangementControlActionTaskRecord" : {},
+  "corporateLeaseArrangementControlActionTaskReference" : "CLACATR723378",
+  "corporateLeaseArrangementSchedule" : "corporateLeaseArrangementSchedule"
+}

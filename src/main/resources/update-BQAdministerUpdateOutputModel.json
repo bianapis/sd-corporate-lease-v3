@@ -1,0 +1,14 @@
+{
+  "businessService" : "businessService",
+  "administerFeatureSchedule" : "administerFeatureSchedule",
+  "administerServiceType" : "administerServiceType",
+  "administerPostconditions" : "administerPostconditions",
+  "administerServiceWorkProduct" : "administerServiceWorkProduct",
+  "administerServiceInputsandOuputs" : "administerServiceInputsandOuputs",
+  "updateResponseRecord" : {},
+  "administerServiceDescription" : "administerServiceDescription",
+  "administerServiceName" : "administerServiceName",
+  "administerUpdateActionTaskReference" : "CLAUATR748915",
+  "administerUpdateActionTaskRecord" : {},
+  "administerPreconditions" : "administerPreconditions"
+}

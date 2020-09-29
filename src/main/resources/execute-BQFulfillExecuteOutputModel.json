@@ -1,0 +1,14 @@
+{
+  "businessService" : "businessService",
+  "fulfillServiceInputsandOuputs" : "fulfillServiceInputsandOuputs",
+  "fulfillExecuteActionTaskRecord" : {},
+  "executeResponseRecord" : {},
+  "fulfillServiceWorkProduct" : "fulfillServiceWorkProduct",
+  "fulfillServiceDescription" : "fulfillServiceDescription",
+  "fulfillPostconditions" : "fulfillPostconditions",
+  "fulfillFeatureSchedule" : "fulfillFeatureSchedule",
+  "fulfillExecuteActionTaskReference" : "FEATR795590",
+  "fulfillExecuteRecordReference" : "FERR735903",
+  "fulfillPreconditions" : "fulfillPreconditions",
+  "fulfillServiceType" : "fulfillServiceType"
+}

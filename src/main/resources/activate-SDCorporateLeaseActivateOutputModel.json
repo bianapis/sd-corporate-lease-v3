@@ -1,0 +1,24 @@
+{
+  "corporateLeaseServicingSessionRecord" : {},
+  "corporateLeaseActivationActionTaskReference" : "SAATR758836",
+  "corporateLeaseActivationActionTaskRecord" : {},
+  "corporateLeaseServicingSessionReference" : "SSSR783215",
+  "corporateLeaseServiceConfigurationRecord" : {
+    "corporateLeaseServiceSubscription" : {
+      "corporateLeaseServiceSubscriberAccessProfile" : "corporateLeaseServiceSubscriberAccessProfile",
+      "corporateLeaseServiceSubscriberReference" : "769192"
+    },
+    "corporateLeaseServiceStatus" : "corporateLeaseServiceStatus",
+    "corporateLeaseServiceAgreement" : {
+      "corporateLeaseServiceAgreementTermsandConditions" : "corporateLeaseServiceAgreementTermsandConditions",
+      "corporateLeaseServiceAgreementReference" : "791202",
+      "corporateLeaseServiceUserReference" : "767210"
+    },
+    "corporateLeaseServiceConfigurationSetup" : {
+      "corporateLeaseServiceConfigurationParameter" : "corporateLeaseServiceConfigurationParameter"
+    },
+    "corporateLeaseServiceConfigurationSettingReference" : "700761",
+    "corporateLeaseServiceConfigurationSettingDescription" : "corporateLeaseServiceConfigurationSettingDescription"
+  },
+  "corporateLeaseServicingSessionStatus" : "corporateLeaseServicingSessionStatus"
+}

@@ -1,0 +1,14 @@
+{
+  "fulfillRequestActionTaskReference" : "FRATR743297",
+  "businessService" : "businessService",
+  "fulfillServiceInputsandOuputs" : "fulfillServiceInputsandOuputs",
+  "fulfillRequestRecordReference" : "FRRR714991",
+  "fulfillServiceWorkProduct" : "fulfillServiceWorkProduct",
+  "fulfillServiceDescription" : "fulfillServiceDescription",
+  "fulfillPostconditions" : "fulfillPostconditions",
+  "fulfillRequestActionTaskRecord" : {},
+  "fulfillFeatureSchedule" : "fulfillFeatureSchedule",
+  "fulfillPreconditions" : "fulfillPreconditions",
+  "fulfillServiceType" : "fulfillServiceType",
+  "requestResponseRecord" : {}
+}

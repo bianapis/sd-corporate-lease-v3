@@ -1,0 +1,14 @@
+{
+  "businessService" : "businessService",
+  "fulfillInstanceReference" : "FIR735420",
+  "fulfillInitiateActionReference" : "FIAR777577",
+  "fulfillServiceInputsandOuputs" : "fulfillServiceInputsandOuputs",
+  "fulfillInstanceStatus" : "fulfillInstanceStatus",
+  "fulfillServiceWorkProduct" : "fulfillServiceWorkProduct",
+  "fulfillServiceDescription" : "fulfillServiceDescription",
+  "fulfillPostconditions" : "fulfillPostconditions",
+  "fulfillInitiateActionRecord" : {},
+  "fulfillFeatureSchedule" : "fulfillFeatureSchedule",
+  "fulfillPreconditions" : "fulfillPreconditions",
+  "fulfillServiceType" : "fulfillServiceType"
+}
